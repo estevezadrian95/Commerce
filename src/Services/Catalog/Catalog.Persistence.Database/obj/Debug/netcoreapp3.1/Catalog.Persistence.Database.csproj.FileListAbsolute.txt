@@ -1,0 +1,13 @@
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.deps.json
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CopyComplete

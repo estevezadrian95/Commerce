@@ -1,0 +1,10 @@
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.deps.json
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfo.cs
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\estev\OneDrive\Documents\GitHub\Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.AssemblyReference.cache
